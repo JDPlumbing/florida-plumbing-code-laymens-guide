@@ -4,7 +4,7 @@
 **Project Version:** v1.0 (2025 Edition)  
 **License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 **Status:** Actively Maintained  
-**Repository:** [GitHub link if different from current view]  
+**Repository:** (https://github.com/JDPlumbing/florida-plumbing-code-laymens-guide) 
 
 ---
 
