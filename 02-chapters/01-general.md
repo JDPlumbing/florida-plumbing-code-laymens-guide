@@ -14,7 +14,7 @@ This chapter sets the ground rules for how plumbing must be installed across the
   - No cross-connections unless there's backflow protection.
 
 - **Installation Must Be Permanent:** Don’t rely on temporary hoses or flexible tubing where permanent 
-pipe is required.
+pipe is required. 
 
 - **Protect Against Freezing & Damage:** Pipes must be insulated or protected if they might freeze.
 
